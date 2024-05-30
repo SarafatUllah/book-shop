@@ -2,6 +2,5 @@
 
 ## Live site link: https://books-guru.vercel.app/
 
-## Frontend GitHub: https://github.com/sumoncse19/book_guru_frontend
+## Frontend GitHub: https://github.com/SarafatUllah/book-shop
 
-## Backend GitHub: https://github.com/sumoncse19/book_guru_backend
